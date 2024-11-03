@@ -45,7 +45,7 @@ ChromeDriver는 Selenium과 함께 브라우저 제어에 사용되어, 웹페�
 ### 프로그램 실행
 1. 터미널에서 프로그램을 실행합니다:
    ```bash
-   python ticket_reservation.py
+   python happy.py
    ```
 2. GUI에서 요구하는 정보를 입력합니다 (ID, 비밀번호, 뮤지컬명, 티켓팅 시간, 극장 이름).
 3. 프로그램이 로그인부터 좌석 선택, 예매까지 자동으로 진행합니다.
